@@ -1,6 +1,7 @@
 package other;
 
 import org.junit.jupiter.api.Test;
+import algorithms.string.SherlockAndTheValidString;
 
 import static org.junit.jupiter.api.Assertions.*;
 
